@@ -41,9 +41,9 @@
 		<meta property="se:subject">Nonfiction</meta>
 		<meta property="se:subject">Philosophy</meta>
 		<meta property="se:subject">Spirituality</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">G. K. Chesterton’s unique view on Christianity and how all his “solitary and sincere speculations” were ultimately answered by its theology.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;&lt;i&gt;Orthodoxy&lt;/i&gt; was written by &lt;a href="https://standardebooks.org/ebooks/g-k-chesterton"&gt;G.K. Chesterton&lt;/a&gt; in response to his critics’ assertion that his earlier collection of essays &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/g-k-chesterton/heretics"&gt;Heretics&lt;/a&gt;&lt;/i&gt; had “merely criticised current philosophies without offering any alternative philosophy.” In his intellectual journey from pagan to agnostic to postivist philosopher, he had attempted to build a philosophy “some ten minutes in advance of the truth”. But when he compared his modern philosophy with Christian theology, he realized that he was “the man who with the utmost daring discovered what had been discovered before.”&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/16769</dc:source>
