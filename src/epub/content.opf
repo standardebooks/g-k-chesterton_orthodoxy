@@ -47,7 +47,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/16769</dc:source>
 		<dc:source>https://archive.org/details/orthodoxy0000ches</dc:source>
-		<meta property="se:word-count">63925</meta>
+		<meta property="se:word-count">63801</meta>
 		<meta property="se:reading-ease.flesch">59.64</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Orthodoxy_(book)</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/g-k-chesterton_orthodoxy</meta>
