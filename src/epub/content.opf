@@ -32,7 +32,7 @@
 		<meta property="file-as" refines="#title">Orthodoxy</meta>
 		<dc:subject id="subject-1">Apologetics</dc:subject>
 		<dc:subject id="subject-2">Chesterton, G. K. (Gilbert Keith), 1874-1936</dc:subject>
-		<dc:subject id="subject-3">Christianity -- Essence, genius, nature</dc:subject>
+		<dc:subject id="subject-3">Christianity--Essence, genius, nature</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85006028</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
